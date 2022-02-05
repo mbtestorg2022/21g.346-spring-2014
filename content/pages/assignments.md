@@ -14,19 +14,156 @@ Weekly Short-answer Papers
 
 Students will write a _half-page_ answer to the weekly questions drawing from the assigned readings and class discussions.
 
-| SES # | TOPICS | QUESTIONS |
-| --- | --- | --- |
-| 3 | Vivre aux États-Unis : Clichés et réalités | Pensez-vous que la narratrice aime New York ? Expliquez pourquoi. |
-| 4 | La construction des institutions américaines sous influence française | Quel événement symbolise, selon vous, l’influence de la France en Amérique et pourquoi ? |
-| 5 | L’indépendance de la France : De la seconde guerre mondiale à la crise irakienne | La France est-elle une Nation indépendante ? |
-| 6 | Les États-Unis d’Europe | Argumentez contre les États-Unis d’Europe |
-| 9 | L’Empire américain | Selon vous, pourquoi certains Français détestent-ils les États-Unis ? |
-| 10 | Liberté d’expression et puritanisme | Un / e Président de la République peut-il publiquement avoir plusieurs compagnes ou compagnons ? |
-| 11 | L’anti-communautarisme en France | Êtes vous favorable à l’affirmative action et pourquoi ? |
-| 12 | La ville en France et aux Etats-Unis | Paris ressemble-t-elle à une ville américaine ? |
-| 15 | La culture populaire américaine en France | Identifiez un artiste français « américanisé ». Expliquez votre choix. |
-| 16 | Une culture américaine globale ? Médias, nouvelles technologies et exception culturelle | Internet est-il un outil de propagande américain ? |
-| 19 | Les Américains en France | Dans le texte de Baldwin, pourquoi les personnages utilisent-ils des stéréotypes culturels ? 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+QUESTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Vivre aux États-Unis : Clichés et réalités
+{{< tdclose >}}
+{{< tdopen >}}
+Pensez-vous que la narratrice aime New York ? Expliquez pourquoi.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+La construction des institutions américaines sous influence française
+{{< tdclose >}}
+{{< tdopen >}}
+Quel événement symbolise, selon vous, l’influence de la France en Amérique et pourquoi ?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+L’indépendance de la France : De la seconde guerre mondiale à la crise irakienne
+{{< tdclose >}}
+{{< tdopen >}}
+La France est-elle une Nation indépendante ?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Les États-Unis d’Europe
+{{< tdclose >}}
+{{< tdopen >}}
+Argumentez contre les États-Unis d’Europe
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+L’Empire américain
+{{< tdclose >}}
+{{< tdopen >}}
+Selon vous, pourquoi certains Français détestent-ils les États-Unis ?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Liberté d’expression et puritanisme
+{{< tdclose >}}
+{{< tdopen >}}
+Un / e Président de la République peut-il publiquement avoir plusieurs compagnes ou compagnons ?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+L’anti-communautarisme en France
+{{< tdclose >}}
+{{< tdopen >}}
+Êtes vous favorable à l’affirmative action et pourquoi ?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+La ville en France et aux Etats-Unis
+{{< tdclose >}}
+{{< tdopen >}}
+Paris ressemble-t-elle à une ville américaine ?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+La culture populaire américaine en France
+{{< tdclose >}}
+{{< tdopen >}}
+Identifiez un artiste français « américanisé ». Expliquez votre choix.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Une culture américaine globale ? Médias, nouvelles technologies et exception culturelle
+{{< tdclose >}}
+{{< tdopen >}}
+Internet est-il un outil de propagande américain ?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Les Américains en France
+{{< tdclose >}}
+{{< tdopen >}}
+Dans le texte de Baldwin, pourquoi les personnages utilisent-ils des stéréotypes culturels ?
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Individual Research Paper
 -------------------------

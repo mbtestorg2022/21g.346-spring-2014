@@ -38,12 +38,57 @@ Final grade will be determined from three types of required exercises
     *   the demonstration that the students have done the weekly readings
     *   the quality of their oral output
 
-| ACTIVITES | PERCENTAGES |
-| --- | --- |
-| Oral presentation | 30% |
-| Weekly short-answer papers | 20% |
-| Individual research paper | 40% |
-| Class participation | 10% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral presentation
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly short-answer papers
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Individual research paper
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Course Organization
 -------------------
@@ -53,29 +98,296 @@ L'objectif du cours n'est pas seulement de montrer les interactions entre la Fra
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Présentation du semestre | Choice of oral presentation topics |
-| 2 | La découverte des États-Unis : Clichés et réalités | &nbsp; |
-| 3 | Vivre aux États-Unis : Clichés et réalités | &nbsp; |
-| {{< td-colspan 3 >}}**1e Partie : La Politique Americaine de la France**{{< /td-colspan >}} |||
-| 4 | La construction des institutions américaines sous influence française | &nbsp; |
-| 5 | L'indépendance de la France : De la seconde guerre mondiale à la crise  {{< br >}}irakienne | &nbsp; |
-| 6 | Les États-Unis d'Europe | &nbsp; |
-| {{< td-colspan 3 >}}**2e Partie : Un Modele Etats-Uniens?**{{< /td-colspan >}} |||
-| 7 & 8 | La culture de masse | &nbsp; |
-| 9 | L'Empire américain | &nbsp; |
-| 10 | Liberté d'expression et puritanisme | &nbsp; |
-| 11 | L'anti-communautarisme en France | &nbsp; |
-| 12 | La ville en France et aux Etats-Unis | &nbsp; |
-| {{< td-colspan 3 >}}**3e Partie : Cultures Transatlantiques**{{< /td-colspan >}} |||
-| 13 & 14 | Voyages transatlantiques | &nbsp; |
-| 15 | La culture populaire américaine en France | &nbsp; |
-| 16 |  {{< br >}}{{< br >}} Une culture américaine globale ? Médias, nouvelles technologies et exception culturelle {{< br >}}{{< br >}}  | &nbsp; |
-| 17 |  {{< br >}}{{< br >}} La politique culturelle de la France {{< br >}}{{< br >}} Intervention d'Anne Miller. Ancienne attachée culturelle de la France aux Etats-Unis {{< br >}}{{< br >}}  | &nbsp; |
-| {{< td-colspan 3 >}}**4e Partie : Les Americains en France**{{< /td-colspan >}} |||
-| 18 | La France américaine | Individual Research Paper due |
-| 19 | Les Américains en France | &nbsp; |
-| 20 | L'influence de la pensée américaine en France | &nbsp; |
-| 21 | La France et vous ! | &nbsp; |
-| 22 | Bilan du semester |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Présentation du semestre
+{{< tdclose >}}
+{{< tdopen >}}
+Choice of oral presentation topics
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+La découverte des États-Unis : Clichés et réalités
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Vivre aux États-Unis : Clichés et réalités
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**1e Partie : La Politique Americaine de la France**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+La construction des institutions américaines sous influence française
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+L'indépendance de la France : De la seconde guerre mondiale à la crise  
+irakienne
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Les États-Unis d'Europe
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**2e Partie : Un Modele Etats-Uniens?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7 & 8
+{{< tdclose >}}
+{{< tdopen >}}
+La culture de masse
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+L'Empire américain
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Liberté d'expression et puritanisme
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+L'anti-communautarisme en France
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+La ville en France et aux Etats-Unis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**3e Partie : Cultures Transatlantiques**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13 & 14
+{{< tdclose >}}
+{{< tdopen >}}
+Voyages transatlantiques
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+La culture populaire américaine en France
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Une culture américaine globale ? Médias, nouvelles technologies et exception culturelle
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+La politique culturelle de la France
+
+Intervention d'Anne Miller. Ancienne attachée culturelle de la France aux Etats-Unis
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**4e Partie : Les Americains en France**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+La France américaine
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Research Paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Les Américains en France
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+L'influence de la pensée américaine en France
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+La France et vous !
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Bilan du semester
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
