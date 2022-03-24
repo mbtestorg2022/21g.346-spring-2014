@@ -30,7 +30,7 @@ Présentation du semestre
 {{< tdopen >}}
 
 
-Céline, Louis-Ferdinand. Extrait : « Pour une surprise… en même temps que la fièvre. » L'Arrivée à New York**.** _Voyage au Bout de la Nuit_ (1932). Gallimard, 1988. p. 152. ISBN : 9780828836272. \[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Online book (PDF)](http://www.pourlhistoire.com/docu/voyage-celine.pdf) (en français) pp. 158–59\]
+Céline, Louis-Ferdinand. Extrait : « Pour une surprise… en même temps que la fièvre. » L'Arrivée à New York**.** _Voyage au Bout de la Nuit_ (1932). Gallimard, 1988. p. 152. ISBN : 9780828836272. \[[Online book (PDF)](http://www.pourlhistoire.com/docu/voyage-celine.pdf) (en français) pp. 158–59\]
 
 
 {{< tdclose >}}
