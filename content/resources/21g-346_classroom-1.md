@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2770fcfb-f892-ae1d-419d-6b4584e2371a
 resourcetype: Image
 title: 21G-346_classroom-1
 uid: f55217b5-5efe-5af6-5240-d663d6f14342

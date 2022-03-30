@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2770fcfb-f892-ae1d-419d-6b4584e2371a
 resourcetype: Image
 title: 21G-346_stat-students
 uid: b407a141-3a05-880e-fc30-2e23789565d3

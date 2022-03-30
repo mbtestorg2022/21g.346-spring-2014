@@ -4,6 +4,7 @@ description: "Extracts from Bruno Perreau's \"L'Invention de la R\xE9publique. U
   \ Herm\xE9neutique Minoritaire.\""
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21g-346-topics-in-modern-french-literature-and-culture-north-america-through-french-eyes-spring-2014/1b5b4addf7c459df8ae79532705fe80d_MIT21G_346S14_Bruno_Prreau.pdf
 file_type: application/pdf
+parent_uid: 21f5113c-d022-4e7a-c9a4-624a96d5039c
 resourcetype: Document
 title: "L\u2019Invention R\xE9publicaine. \xC9l\xE9ments d\u2019une Herm\xE9neutique\
   \ Minoritaire. Extraits"
